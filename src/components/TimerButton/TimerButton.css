@@ -1,11 +1,14 @@
 .button-container {
-    flex: 1 1 auto;
-    text-align: center;
-    margin: 0px 20px;
-    border: var(--button-border);
-    font-size: var(--button-text-size);
-  }
+  flex: 1 1 auto;
+  text-align: center;
+  margin: 0px 20px;
+  border: var(--button-border);
+  font-size: var(--button-text-size);
+  color:#032580;
+}
   
   .button-container:hover {
     cursor: pointer;
   }
+
+  
